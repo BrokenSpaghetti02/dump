@@ -20,7 +20,7 @@ git clone https://github.com/mangdangroboticsclub/mini_pupper_bsp.git
 cd mini_pupper_bsp
 ./install.sh
 ```
-### 4. Next clone gemini-md-bot repo and install
+### 4. Next, clone the gemini-md-bot repo and install
 ```
 cd ~
 git clone https://github.com/mangdangroboticsclub/gemini-md-bot
