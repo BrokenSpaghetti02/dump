@@ -27,7 +27,7 @@ git clone https://github.com/mangdangroboticsclub/gemini-md-bot
 cd gemini-md-bot
 ./install.sh
 ```
-### 5. Copy env.sample to .enc and then set your google api key path
+### 5. Copy env.sample to .env and then set your google api key path
 ```
 cp env.example .env
 ```
